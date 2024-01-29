@@ -16,6 +16,7 @@
 			<brush name="clear water"/>
 			<brush name="sea"/>
 			<brush name="walkable sea"/>
+			<brush name="walkable sea outfit"/> 
 			<brush name="small brook"/>
 			<brush name="shallow water"/>
 			<brush name="dirty water"/>
@@ -123,6 +124,7 @@
 			<item id="372"/>
 			<item id="727"/>
 			<item fromid="4654" toid="4655"/>
+			<item fromid="629" toid="634"/>
 			<item id="5730"/>
 			<item id="6838"/>
 			<item fromid="7738" toid="7740"/>
